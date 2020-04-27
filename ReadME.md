@@ -1,0 +1,1 @@
+#NextJs app for Ecommerce Project with a olugined snipcart-nextjs api#
